@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/calendario.ico</file>
+    <file>Icons/carpeta.png</file>
+    <file>Icons/carpeta_view.png</file>
+    <file>Icons/carro-de-la-compra.ico</file>
+    <file>Icons/circulo-cruzado.ico</file>
+    <file>Icons/directorio.ico</file>
+    <file>Icons/DRAGON.ico</file>
+    <file>Icons/DRAGONN.ico</file>
+    <file>Icons/estadisticas.ico</file>
+    <file>Icons/histograma-de-grafico.ico</file>
+    <file>Icons/maletin.ico</file>
+    <file>Icons/retrato.ico</file>
+    <file>Icons/tienda.ico</file>
+    <file>Icons/usuario.ico</file>
+    <file>Icons/calendario.ico</file>
+    <file>Icons/carro-de-la-compra.ico</file>
+    <file>Icons/circulo-cruzado.ico</file>
+    <file>Icons/directorio.ico</file>
+    <file>Icons/estadisticas.ico</file>
+    <file>Icons/histograma-de-grafico.ico</file>
+    <file>Icons/maletin.ico</file>
+    <file>Icons/retrato.ico</file>
+    <file>Icons/tienda.ico</file>
+    <file>Icons/usuario.ico</file>
+  </qresource>
+</RCC>
